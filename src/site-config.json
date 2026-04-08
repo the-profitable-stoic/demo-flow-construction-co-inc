@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Flow Construction Co Inc",
+    "phone": "+16158320707",
+    "category": "general contractor",
+    "city": "Nashville",
+    "state": "TN"
+  },
+  "design": {
+    "preset": {
+      "id": "general-contractor-red-charge",
+      "categoryGroup": "general-contractor",
+      "name": "Red Charge",
+      "recipeFile": "general-contractor/red-charge.astro",
+      "colors": {
+        "primary": "#1E3A5F",
+        "primaryDark": "#0F1D30",
+        "primaryLight": "#c7ced7",
+        "secondary": "#1b3456",
+        "accent": "#3B82F6",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1E3A5F",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "general-contractor/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Nashville's Trusted Contractor",
+      "heroSubline": "Building and renovating homes across Middle Tennessee with integrity and expertise. Let us bring your vision to life.",
+      "aboutTitle": "Building Nashville, One Project at a Time",
+      "aboutText": [
+        "Flow Construction Co Inc started with a simple goal: to provide honest and reliable construction services to our Nashville neighbors. We've grown from a small team to a full-service contractor, but our commitment to quality and customer satisfaction remains the same.",
+        "Our approach is built on clear communication, meticulous planning, and skilled craftsmanship. We believe in transparency and collaboration, ensuring you're informed and confident every step of the way. We treat your home as if it were our own.",
+        "We're proud to be a part of the Nashville community, and we're committed to giving back. We actively support local organizations and strive to use sustainable building practices whenever possible, contributing to a brighter future for our city."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Nashville's unique building challenges and regulations."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "Clear and detailed estimates with no hidden fees or surprises."
+        },
+        {
+          "title": "Quality Craftsmanship",
+          "description": "Skilled team dedicated to delivering exceptional results that last."
+        },
+        {
+          "title": "Dedicated Project Management",
+          "description": "We manage your project from start to finish, keeping you informed and on schedule."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Home?",
+      "ctaSubline": "Contact Flow Construction Co Inc today for a free consultation and let's discuss your project."
+    },
+    "services": [
+      {
+        "slug": "kitchen-remodeling",
+        "name": "Kitchen Remodeling",
+        "shortDescription": "Transform your kitchen into the heart of your home with our expert remodeling services.",
+        "description": "The kitchen is often the most used room in a house. We specialize in creating functional and beautiful kitchens tailored to your lifestyle. Whether you're dreaming of a modern culinary space or a cozy family gathering spot, we can bring your vision to life. Our kitchen remodeling services include design consultation, custom cabinetry, countertop installation (granite, quartz, marble), flooring, lighting, plumbing, and appliance installation. We handle every aspect of the project, from initial planning to final touches, ensuring a seamless and stress-free experience. We understand the importance of minimizing disruption during the remodeling process, and we strive to complete projects efficiently and with minimal inconvenience to your daily life. We also ensure all work meets local codes and standards, crucial since Nashville has updated building codes in recent years. We'll work closely with you to select the best materials and finishes that complement your home's style and your personal taste, paying close attention to the unique needs of older homes common in areas like East Nashville.",
+        "process": [
+          "Step 1: Initial Consultation and Design – Discuss your vision, budget, and timeline.",
+          "Step 2: Detailed Planning and Material Selection – Choose cabinets, countertops, appliances, and finishes.",
+          "Step 3: Demolition and Construction – Careful removal of existing structures and expert installation of new features.",
+          "Step 4: Finishing Touches and Final Inspection – Ensuring every detail is perfect and meets your satisfaction."
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved functionality and efficiency",
+          "Enhanced aesthetics and comfort",
+          "Personalized design to suit your needs"
+        ],
+        "faq": [
+          {
+            "question": "How long does a kitchen remodel typically take?",
+            "answer": "The duration of a kitchen remodel varies depending on the scope of the project, but typically ranges from 4 to 8 weeks. We'll provide a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "Do I need to move out during the remodel?",
+            "answer": "While it's not always necessary to move out, it can be more comfortable, especially during demolition and major construction. We'll work with you to minimize disruption and create a safe environment."
+          },
+          {
+            "question": "What is the cost of a kitchen remodel?",
+            "answer": "The cost of a kitchen remodel depends on the size of your kitchen, the materials you choose, and the complexity of the design. We offer transparent pricing and will provide a detailed estimate before starting any work."
+          }
+        ]
+      },
+      {
+        "slug": "bathroom-remodeling",
+        "name": "Bathroom Remodeling",
+        "shortDescription": "Create a spa-like retreat with our comprehensive bathroom remodeling services.",
+        "description": "Transform your outdated bathroom into a luxurious and functional space with Flow Construction Co Inc. We handle every aspect of bathroom remodeling, from design to installation. Whether you're looking to update fixtures, expand the space, or create a completely new layout, our experienced team can bring your vision to life. Our services include: custom vanities, shower and tub installation, tile work (floors, walls, backsplashes), lighting, plumbing, and ventilation. We understand the importance of creating a relaxing and efficient bathroom that meets your specific needs. We pay close attention to detail, ensuring every element is perfectly installed and aesthetically pleasing. We also address common issues found in older Nashville homes, such as outdated plumbing and ventilation problems. Our team stays up-to-date on the latest trends and technologies in bathroom design, offering innovative solutions to maximize space and functionality. We'll help you select the best materials and finishes that complement your style and budget. We understand the unique challenges presented by the limestone bedrock in Nashville and how it affects plumbing and drainage systems, ensuring proper installation and long-term reliability.",
+        "process": [
+          "Step 1: Design Consultation and Planning – Discuss your needs, style preferences, and budget.",
+          "Step 2: Material Selection – Choose tiles, fixtures, vanities, and accessories.",
+          "Step 3: Demolition and Preparation – Careful removal of existing fixtures and preparation of the space.",
+          "Step 4: Installation and Finishing – Expert installation of new features and final touches."
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved comfort and functionality",
+          "Enhanced aesthetics and relaxation",
+          "Water conservation through modern fixtures"
+        ],
+        "faq": [
+          {
+            "question": "How long does a bathroom remodel take?",
+            "answer": "A typical bathroom remodel can take anywhere from 1 to 3 weeks, depending on the size and complexity of the project. We'll provide a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "Can you help with the design of my new bathroom?",
+            "answer": "Yes, we offer comprehensive design services to help you create the perfect bathroom. Our team will work with you to develop a layout and select materials that meet your needs and style."
+          },
+          {
+            "question": "Do I need to obtain permits for a bathroom remodel?",
+            "answer": "In many cases, permits are required for bathroom remodeling projects, especially if structural changes or plumbing modifications are involved. We'll handle the permit process for you, ensuring compliance with local regulations."
+          }
+        ]
+      },
+      {
+        "slug": "home-additions",
+        "name": "Home Additions",
+        "shortDescription": "Expand your living space with our seamless and expertly crafted home addition services.",
+        "description": "Need more space? Flow Construction Co Inc specializes in designing and building home additions that seamlessly integrate with your existing structure. Whether you're adding a new bedroom, expanding your kitchen, or creating a sunroom, we can help you create the extra space you need. We handle every aspect of the project, from initial design and planning to final construction and finishing touches. We understand the importance of matching the style and materials of your existing home to ensure a cohesive and aesthetically pleasing result. Our team has extensive experience working with the diverse architectural styles found in Nashville, from historic bungalows in East Nashville to modern homes in The Gulch. We pay close attention to detail, ensuring every element of the addition is perfectly integrated with your home. We also navigate the complex permitting process and ensure compliance with all local building codes. We understand the challenges of building on Nashville's limestone bedrock and factor this into our foundation design and construction. We prioritize minimizing disruption to your daily life during the construction process and strive to complete projects efficiently and with minimal inconvenience.",
+        "process": [
+          "Step 1: Design Consultation and Planning – Discuss your needs, budget, and desired outcome.",
+          "Step 2: Permitting and Approvals – Obtain all necessary permits and approvals from local authorities.",
+          "Step 3: Construction and Framing – Build the foundation, frame the structure, and install roofing.",
+          "Step 4: Interior Finishing – Complete electrical, plumbing, insulation, drywall, and finishing touches."
+        ],
+        "benefits": [
+          "Increased living space",
+          "Enhanced home value",
+          "Improved functionality and comfort",
+          "Customized design to meet your specific needs"
+        ],
+        "faq": [
+          {
+            "question": "What is the typical cost of a home addition?",
+            "answer": "The cost of a home addition varies depending on the size and complexity of the project. We offer transparent pricing and will provide a detailed estimate after the initial consultation."
+          },
+          {
+            "question": "How long does a home addition take to build?",
+            "answer": "The duration of a home addition project depends on the scope of the work, but typically ranges from 2 to 6 months. We'll provide a detailed timeline during the planning phase."
+          },
+          {
+            "question": "Will a home addition increase my property taxes?",
+            "answer": "Yes, a home addition will likely increase your property taxes, as it increases the value of your home. We recommend consulting with a local tax assessor for more information."
+          }
+        ]
+      },
+      {
+        "slug": "deck-patio-construction",
+        "name": "Deck & Patio Construction",
+        "shortDescription": "Enhance your outdoor living space with our custom deck and patio construction services.",
+        "description": "Extend your living space outdoors with a custom deck or patio from Flow Construction Co Inc. We specialize in designing and building beautiful and functional outdoor spaces that enhance your lifestyle. Whether you're looking to create a relaxing retreat, a space for entertaining, or an outdoor kitchen, we can bring your vision to life. Our services include: deck construction (wood, composite), patio construction (concrete, pavers, stone), pergolas, gazebos, outdoor kitchens, and fire pits. We understand the importance of creating an outdoor space that complements your home's style and your personal taste. We use high-quality materials and expert craftsmanship to ensure your deck or patio is durable, beautiful, and long-lasting. We factor in Nashville's climate and weather patterns when selecting materials and designing your outdoor space, ensuring it can withstand the hot summers and occasional ice storms. We consider the unique topography of your property and any existing landscape features when designing your deck or patio, creating a seamless integration with your outdoor environment. We can also help you navigate any local regulations or permitting requirements for outdoor construction projects.",
+        "process": [
+          "Step 1: Design Consultation and Planning – Discuss your needs, style preferences, and budget.",
+          "Step 2: Material Selection – Choose decking materials, pavers, stone, and accessories.",
+          "Step 3: Construction and Installation – Build the foundation, frame the structure, and install decking or pavers.",
+          "Step 4: Finishing Touches and Landscaping – Add railings, lighting, and landscaping to complete the project."
+        ],
+        "benefits": [
+          "Increased outdoor living space",
+          "Enhanced home value",
+          "Improved aesthetics and relaxation",
+          "Perfect for entertaining and family gatherings"
+        ],
+        "faq": [
+          {
+            "question": "What is the best material for a deck in Nashville's climate?",
+            "answer": "Composite decking is a popular choice for Nashville's climate due to its durability, low maintenance, and resistance to moisture and insects. Wood decking is also a good option, but requires regular maintenance to prevent rot and decay."
+          },
+          {
+            "question": "Do I need a permit to build a deck or patio?",
+            "answer": "In most cases, permits are required to build a deck or patio, especially if it's attached to your home or exceeds a certain size. We'll handle the permit process for you, ensuring compliance with local regulations."
+          },
+          {
+            "question": "How much does a deck or patio cost?",
+            "answer": "The cost of a deck or patio depends on the size, materials, and complexity of the project. We offer transparent pricing and will provide a detailed estimate after the initial consultation."
+          }
+        ]
+      },
+      {
+        "slug": "flooring-installation",
+        "name": "Flooring Installation",
+        "shortDescription": "Upgrade your home with our professional and reliable flooring installation services.",
+        "description": "New flooring can dramatically transform the look and feel of your home. Flow Construction Co Inc offers a wide range of flooring installation services to suit your style and budget. Whether you're looking for hardwood, laminate, tile, carpet, or vinyl flooring, we have the expertise to install it flawlessly. We handle every aspect of the project, from removing your old flooring to preparing the subfloor and installing the new flooring. We pay close attention to detail, ensuring every seam is perfectly aligned and every board is securely fastened. We understand the importance of choosing the right flooring for your lifestyle and your home's style. We'll help you select the best materials and finishes that complement your decor and meet your specific needs. We consider the unique challenges presented by Nashville's climate and humidity when recommending flooring options, ensuring your new flooring is durable and long-lasting. Our team is experienced in working with the diverse architectural styles found in Nashville, ensuring a seamless integration with your home's existing design. We also offer eco-friendly flooring options for homeowners who are looking to reduce their environmental impact.",
+        "process": [
+          "Step 1: Consultation and Material Selection – Discuss your needs, style preferences, and budget.",
+          "Step 2: Site Preparation – Remove old flooring, prepare the subfloor, and ensure a level surface.",
+          "Step 3: Flooring Installation – Expertly install your chosen flooring with precision and care.",
+          "Step 4: Finishing Touches – Add baseboards, trim, and other finishing touches to complete the project."
+        ],
+        "benefits": [
+          "Enhanced aesthetics and comfort",
+          "Increased home value",
+          "Improved durability and longevity",
+          "Wide range of flooring options to choose from"
+        ],
+        "faq": [
+          {
+            "question": "What type of flooring is best for high-traffic areas?",
+            "answer": "For high-traffic areas, we recommend hardwood, tile, or luxury vinyl plank (LVP) flooring. These materials are durable, easy to clean, and resistant to wear and tear."
+          },
+          {
+            "question": "How long does flooring installation take?",
+            "answer": "The duration of flooring installation depends on the size of the area and the type of flooring being installed. We'll provide a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "Do I need to move my furniture before the installation?",
+            "answer": "Yes, we recommend moving your furniture before the flooring installation to protect it from damage. We can assist with moving furniture if needed."
+          }
+        ]
+      },
+      {
+        "slug": "painting-services",
+        "name": "Painting Services",
+        "shortDescription": "Refresh your home with our professional interior and exterior painting services.",
+        "description": "A fresh coat of paint can breathe new life into your home. Flow Construction Co Inc offers professional interior and exterior painting services to transform your space. We use high-quality paints and expert techniques to ensure a flawless and long-lasting finish. Whether you're looking to update a single room or repaint your entire home, we can help you achieve your desired look. Our services include: interior painting, exterior painting, drywall repair, wallpaper removal, and pressure washing. We understand the importance of proper preparation to ensure a smooth and even paint job. We thoroughly clean and prepare surfaces before painting, filling holes, patching cracks, and sanding rough spots. We also use primer to create a uniform surface for the paint to adhere to. We pay close attention to detail, ensuring every edge is crisp and every surface is evenly coated. We consider Nashville's climate and weather patterns when selecting exterior paints, ensuring they can withstand the hot summers, cold winters, and frequent rain. We also offer eco-friendly paint options for homeowners who are looking to reduce their environmental impact. Our team is experienced in working with the diverse architectural styles found in Nashville, ensuring a seamless integration with your home's existing design.",
+        "process": [
+          "Step 1: Consultation and Color Selection – Discuss your needs, style preferences, and choose your paint colors.",
+          "Step 2: Surface Preparation – Clean, repair, and prime surfaces to ensure a smooth and even finish.",
+          "Step 3: Painting – Apply high-quality paint with precision and care.",
+          "Step 4: Cleanup and Inspection – Clean up the work area and inspect the finished paint job to ensure your satisfaction."
+        ],
+        "benefits": [
+          "Enhanced aesthetics and comfort",
+          "Increased home value",
+          "Protection from the elements (exterior painting)",
+          "Improved air quality (eco-friendly paints)"
+        ],
+        "faq": [
+          {
+            "question": "How long does it take to paint a room?",
+            "answer": "The duration of a painting project depends on the size of the room and the complexity of the work. We'll provide a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "Do I need to move my furniture before the painting?",
+            "answer": "Yes, we recommend moving your furniture before the painting to protect it from paint splatters. We can assist with moving furniture if needed."
+          },
+          {
+            "question": "What type of paint is best for bathrooms?",
+            "answer": "For bathrooms, we recommend using a moisture-resistant paint with a satin or semi-gloss finish. These paints are durable, easy to clean, and resistant to mildew."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Franklin",
+        "slug": "franklin-tn",
+        "state": "TN",
+        "content": "Flow Construction Co Inc is proud to offer our comprehensive general contractor services to the residents of Franklin, Tennessee. Known for its charming historic downtown and beautiful antebellum homes, Franklin presents unique construction and renovation opportunities that require a delicate touch and a deep understanding of local architectural styles. We are committed to preserving the character of Franklin while providing modern, functional, and aesthetically pleasing solutions for your home or business.\n\nWhether you're looking to restore a historic property, build a custom home that complements the area's rich heritage, or simply remodel your existing space, Flow Construction Co Inc has the expertise and experience to exceed your expectations. We understand the challenges posed by the hot, humid summers in Franklin and ensure that our projects are built to withstand the elements while maintaining optimal energy efficiency. Our team is dedicated to providing exceptional craftsmanship and unparalleled customer service to the Franklin community.",
+        "localContext": "Franklin, TN, is a vibrant city with a rich history and a blend of historic homes and modern developments. Flow Construction Co Inc understands the unique needs of Franklin homeowners and businesses.",
+        "nearbyAreas": [
+          "Brentwood",
+          "Nashville",
+          "Spring Hill"
+        ]
+      },
+      {
+        "city": "Murfreesboro",
+        "slug": "murfreesboro-tn",
+        "state": "TN",
+        "content": "Flow Construction Co Inc is pleased to serve the growing community of Murfreesboro, Tennessee. As one of the fastest-growing cities in Tennessee, Murfreesboro is known for its affordable family developments and strong sense of community. We specialize in providing high-quality construction and renovation services to meet the diverse needs of Murfreesboro homeowners and businesses.\n\nFrom new home construction to kitchen and bathroom remodeling, Flow Construction Co Inc offers a wide range of services to enhance your living space. We understand the importance of creating a functional and comfortable home for your family, and we are committed to delivering exceptional results that fit your budget and lifestyle. We are also equipped to handle the demands of the hot, humid Murfreesboro summers, ensuring that your home is energy-efficient and built to last.",
+        "localContext": "Murfreesboro, TN, boasts a thriving family community and a mix of established neighborhoods and new construction. Flow Construction Co Inc is dedicated to providing affordable and reliable construction services to the residents of Murfreesboro.",
+        "nearbyAreas": [
+          "Smyrna",
+          "La Vergne",
+          "Shelbyville"
+        ]
+      },
+      {
+        "city": "Brentwood",
+        "slug": "brentwood-tn",
+        "state": "TN",
+        "content": "Flow Construction Co Inc provides expert general contracting services to the discerning residents of Brentwood, Tennessee. Known for its luxury estates on wooded lots, Brentwood demands a high level of craftsmanship and attention to detail. We specialize in creating custom homes and renovations that reflect the unique tastes and lifestyles of our clients.\n\nWhether you're looking to build your dream home, remodel your existing space, or add a luxurious outdoor living area, Flow Construction Co Inc has the expertise to bring your vision to life. We understand the importance of preserving the natural beauty of Brentwood while creating homes that are both elegant and functional. We take pride in our commitment to quality and our dedication to exceeding the expectations of our clients. We are also aware of the climate demands and ensure our construction stands up to hot and humid summers.",
+        "localContext": "Brentwood, TN, is characterized by its upscale residences and sprawling wooded landscapes. Flow Construction Co Inc offers premier construction services to complement the luxurious lifestyle of Brentwood homeowners.",
+        "nearbyAreas": [
+          "Franklin",
+          "Nashville",
+          "Nolensville"
+        ]
+      },
+      {
+        "city": "Hendersonville",
+        "slug": "hendersonville-tn",
+        "state": "TN",
+        "content": "Flow Construction Co Inc proudly serves the residents of Hendersonville, Tennessee, with our comprehensive general contractor services. Situated on the shores of Old Hickory Lake, Hendersonville offers a unique blend of lakefront living and suburban charm. We specialize in creating homes and renovations that take full advantage of the area's natural beauty.\n\nFrom custom lakefront homes to waterfront renovations, Flow Construction Co Inc has the expertise to transform your vision into reality. We understand the challenges and opportunities presented by lakefront construction and are committed to delivering exceptional results that enhance your lifestyle. We also understand the importance of protecting the environment and adhere to the highest standards of sustainability. Our team is dedicated to providing exceptional craftsmanship and unparalleled customer service to the Hendersonville community. We also specialize in building to withstand the hot and humid climate.",
+        "localContext": "Hendersonville, TN, offers picturesque lakefront living on Old Hickory Lake. Flow Construction Co Inc specializes in creating beautiful and functional homes that embrace the lakeside lifestyle.",
+        "nearbyAreas": [
+          "Gallatin",
+          "Goodlettsville",
+          "White House"
+        ]
+      },
+      {
+        "city": "Nashville",
+        "slug": "nashville-tn",
+        "state": "TN",
+        "content": "Flow Construction Co Inc is your premier general contractor in the heart of Nashville, Tennessee. As a dynamic and rapidly growing city, Nashville presents a wide range of construction and renovation opportunities. We are committed to providing exceptional service to homeowners and businesses throughout the Nashville metropolitan area.\n\nFrom urban lofts to historic homes, Flow Construction Co Inc has the expertise to handle any project, big or small. We specialize in new construction, remodeling, and commercial build-outs. We understand the unique challenges of working in a bustling city and are dedicated to delivering projects on time and within budget. Our team is passionate about creating spaces that reflect the vibrant spirit of Nashville. We are experienced with the local climate and ensure construction that is durable and energy efficient.",
+        "localContext": "Nashville, TN, is a vibrant and diverse city with a growing real estate market. Flow Construction Co Inc is dedicated to providing top-notch construction services to meet the needs of Nashville's residents and businesses.",
+        "nearbyAreas": [
+          "Brentwood",
+          "Franklin",
+          "Goodlettsville"
+        ]
+      },
+      {
+        "city": "Smyrna",
+        "slug": "smyrna-tn",
+        "state": "TN",
+        "content": "Flow Construction Co Inc is proud to offer general contractor services to the residents of Smyrna, Tennessee. Known for its thriving economy and family-friendly atmosphere, Smyrna is a great place to live and work. We are dedicated to providing high-quality construction and renovation services to meet the needs of the Smyrna community.\n\nWhether you're looking to build a new home, remodel your existing space, or add an addition, Flow Construction Co Inc has the expertise to get the job done right. We understand the importance of creating a comfortable and functional home for your family, and we are committed to delivering exceptional results that exceed your expectations. We also offer commercial construction services to businesses in Smyrna and the surrounding areas. Flow Construction Co Inc prioritizes construction that can withstand the hot and humid summers.",
+        "localContext": "Smyrna, TN, is a growing community with a strong sense of local pride. Flow Construction Co Inc is committed to providing reliable and affordable construction services to the residents of Smyrna.",
+        "nearbyAreas": [
+          "Murfreesboro",
+          "La Vergne",
+          "Antioch"
+        ]
+      },
+      {
+        "city": "Gallatin",
+        "slug": "gallatin-tn",
+        "state": "TN",
+        "content": "Flow Construction Co Inc offers comprehensive general contracting services to the residents of Gallatin, Tennessee. Growing quickly, Gallatin offers a mix of historic charm and new development. We are dedicated to providing exceptional service to both homeowners and businesses in the area.\n\nFrom custom home building to commercial renovations, Flow Construction Co Inc has the expertise to handle a wide range of projects. We understand the unique needs of the Gallatin community and are committed to delivering results that exceed your expectations. We prioritize quality craftsmanship and customer satisfaction, and we work closely with our clients to ensure that their vision is brought to life. We also understand the climate and ensure our builds are ready for hot and humid summers.",
+        "localContext": "Gallatin, TN, is a growing city with a mix of historic homes and new developments. Flow Construction Co Inc is committed to providing quality construction services to meet the needs of the Gallatin community.",
+        "nearbyAreas": [
+          "Hendersonville",
+          "Goodlettsville",
+          "Portland"
+        ]
+      },
+      {
+        "city": "La Vergne",
+        "slug": "la-vergne-tn",
+        "state": "TN",
+        "content": "Flow Construction Co Inc is pleased to provide general contractor services to the residents and businesses of La Vergne, Tennessee. As a rapidly growing city with a diverse community, La Vergne offers a variety of construction and renovation opportunities. We are committed to delivering exceptional service and exceeding the expectations of our clients.\n\nWhether you're looking to build a new home, remodel your existing space, or expand your business, Flow Construction Co Inc has the expertise and experience to get the job done right. We understand the importance of creating functional and aesthetically pleasing spaces that meet your specific needs. We also offer a wide range of commercial construction services to businesses in La Vergne and the surrounding areas. Flow Construction Co Inc understands the local climate and provides construction that is built to last.",
+        "localContext": "La Vergne, TN, is a diverse and growing community with a strong sense of local pride. Flow Construction Co Inc is committed to providing reliable and affordable construction services to the residents and businesses of La Vergne.",
+        "nearbyAreas": [
+          "Smyrna",
+          "Antioch",
+          "Murfreesboro"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Kitchen Remodel",
+        "text": "Flow Construction transformed our outdated kitchen into a modern dream! They helped us with the design, and the entire process was smooth and stress-free. The team was professional, respectful, and always on time. We especially appreciated their attention to detail and commitment to quality. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David B.",
+        "rating": 4,
+        "service": "Bathroom Remodel",
+        "text": "We hired Flow Construction to remodel our master bathroom, and we're very happy with the results. The communication was excellent throughout the project, and they addressed any concerns we had promptly. The quality of the workmanship is excellent, and the finished bathroom is beautiful. There were a couple of minor delays, but overall, we had a positive experience.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "Home Addition",
+        "text": "Flow Construction added a sunroom to our home, and it's become our favorite space! The team was professional, efficient, and respectful of our property. They helped us navigate the permitting process and ensured the addition seamlessly integrated with our existing home. We highly recommend them for any home addition project.",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "John S.",
+        "rating": 5,
+        "service": "Deck Construction",
+        "text": "We absolutely love our new deck built by Flow Construction! They helped us design a deck that perfectly suits our needs and lifestyle. The construction was top-notch, and the finished product is beautiful and durable. The team was friendly, reliable, and always willing to go the extra mile. We highly recommend them for any deck construction project.",
+        "date": "2024-07-12"
+      },
+      {
+        "name": "Lisa P.",
+        "rating": 4,
+        "service": "Flooring Installation",
+        "text": "Flow Construction installed new hardwood flooring throughout our home, and we're very pleased with the results. The installation was quick and efficient, and the flooring looks beautiful. The team was professional and respectful of our property. There were a few minor scratches on the baseboards, but they were quickly repaired. Overall, we had a positive experience.",
+        "date": "2024-05-01"
+      },
+      {
+        "name": "Michael R.",
+        "rating": 5,
+        "service": "Painting Services",
+        "text": "Flow Construction did an amazing job painting the exterior of our home. They were professional, efficient, and meticulous in their work. The paint job looks fantastic, and we've already received compliments from our neighbors. We highly recommend them for any painting project.",
+        "date": "2024-02-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Flow Construction Co | Nashville Contractor",
+        "description": "Trusted general contractor in Nashville, TN. Kitchen & bath remodels, home additions, decks, flooring. Call for free consultation!"
+      },
+      "about": {
+        "title": "About Flow Construction Co Inc",
+        "description": "Learn about Flow Construction Co Inc's values, commitment to quality, and experience serving the Nashville community."
+      },
+      "services": {
+        "title": "Flow Construction Services",
+        "description": "Comprehensive construction services in Nashville: remodeling, additions, decks, flooring, painting. Quality craftsmanship guaranteed."
+      },
+      "contact": {
+        "title": "Contact Flow Construction Co Inc",
+        "description": "Reach out to Flow Construction Co Inc for your next project. Get a free quote and expert advice from our Nashville team."
+      },
+      "reviews": {
+        "title": "Flow Construction Co Inc Reviews",
+        "description": "Read what our satisfied customers are saying about Flow Construction Co Inc. See examples of our quality workmanship in Nashville."
+      },
+      "service-areas": {
+        "title": "Flow Construction Service Areas",
+        "description": "Flow Construction Co Inc serves Nashville, Franklin, Murfreesboro, Brentwood, and Hendersonville. Contact us today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "kitchen-remodeling": "/images/service-kitchen-remodeling.webp",
+      "bathroom-remodeling": "/images/service-bathroom-remodeling.webp",
+      "home-additions": "/images/service-home-additions.webp",
+      "deck-patio-construction": "/images/service-deck-patio-construction.webp",
+      "flooring-installation": "/images/service-flooring-installation.webp",
+      "painting-services": "/images/service-painting-services.webp"
+    },
+    "servicesResponsive": {
+      "kitchen-remodeling": {
+        "src": "/images/service-kitchen-remodeling.webp",
+        "srcset": "/images/service-kitchen-remodeling-400w.webp 400w, /images/service-kitchen-remodeling-800w.webp 800w, /images/service-kitchen-remodeling-1200w.webp 1200w, /images/service-kitchen-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "bathroom-remodeling": {
+        "src": "/images/service-bathroom-remodeling.webp",
+        "srcset": "/images/service-bathroom-remodeling-400w.webp 400w, /images/service-bathroom-remodeling-800w.webp 800w, /images/service-bathroom-remodeling-1200w.webp 1200w, /images/service-bathroom-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "home-additions": {
+        "src": "/images/service-home-additions.webp",
+        "srcset": "/images/service-home-additions-400w.webp 400w, /images/service-home-additions-800w.webp 800w, /images/service-home-additions-1200w.webp 1200w, /images/service-home-additions.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-patio-construction": {
+        "src": "/images/service-deck-patio-construction.webp",
+        "srcset": "/images/service-deck-patio-construction-400w.webp 400w, /images/service-deck-patio-construction-800w.webp 800w, /images/service-deck-patio-construction-1200w.webp 1200w, /images/service-deck-patio-construction.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "flooring-installation": {
+        "src": "/images/service-flooring-installation.webp",
+        "srcset": "/images/service-flooring-installation-400w.webp 400w, /images/service-flooring-installation-800w.webp 800w, /images/service-flooring-installation-1200w.webp 1200w, /images/service-flooring-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "painting-services": {
+        "src": "/images/service-painting-services.webp",
+        "srcset": "/images/service-painting-services-400w.webp 400w, /images/service-painting-services-800w.webp 800w, /images/service-painting-services-1200w.webp 1200w, /images/service-painting-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
